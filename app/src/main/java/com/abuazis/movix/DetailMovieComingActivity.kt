@@ -40,11 +40,6 @@ class DetailMovieComingActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        btn_pilih_bangku.setOnClickListener {
-            val intent = Intent(this@DetailMovieComingActivity, ChoseSeatActivity::class.java).putExtra("data", data)
-            startActivity(intent)
-        }
-
         iv_back.setOnClickListener {
             finish()
         }
