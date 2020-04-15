@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "399002801918",
+    "firebase_url": "https://movix-f8cf5.firebaseio.com",
+    "project_id": "movix-f8cf5",
+    "storage_bucket": "movix-f8cf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399002801918:android:45599fdf0399ddf4c3f7af",
+        "android_client_info": {
+          "package_name": "com.abuazis.movix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399002801918-kiekekneecq1i8uo0p5rh4djl40ktieg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsJm7Mxd2lgeRUWWeD3QWdepgrx3ksRKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399002801918-kiekekneecq1i8uo0p5rh4djl40ktieg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

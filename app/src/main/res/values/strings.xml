@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MOVIX</string>
+    <string name="ob_button_skip">Lewati Perkenalan</string>
+    <string name="ob_button_next">Lanjutkan</string>
+    <string name="ob1_text1">Now Playing</string>
+    <string name="ob1_text2">Lebih mudah untuk mengetahui \nfilm yang sedang tampil</string>
+    <string name="ob2_text1">Pre Sale</string>
+    <string name="ob2_text2">Tidak khawatir ketinggalan \nupdate film terbaru</string>
+    <string name="ob3_text1">Cashless</string>
+    <string name="ob3_text2">Gunakan e-wallet untuk \ntransaksi tiket nonton</string>
+    <string name="mulai">Mulai</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="upload_nanti">Upload Nanti</string>
+    <string name="simpan_dan_lanjutkan">SImpan dan Lanjutkan</string>
+    <string name="selamat_datang">Selamat Datang \nRobot</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="storyboard">Storyboard</string>
+    <string name="whos_played">Who\'s Played</string>
+    <string name="pilih_bangku">Pilih Bangku</string>
+    <string name="layar_bioskop">Layar Bioskop</string>
+    <string name="booked">Booked</string>
+    <string name="empty">Empty</string>
+    <string name="selected">Selected</string>
+    <string name="beli_tiket">Beli Tiket</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="masuk_akun">Masuk Akun</string>
+    <string name="daftar_akun">Daftar Akun</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
